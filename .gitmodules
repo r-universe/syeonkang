@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "causal.decomp"]
+	path = causal.decomp
+	url = https://github.com/cran/causal.decomp
+	shallow = true
+	registered = true
+[submodule "rrMixture"]
+	path = rrMixture
+	url = https://github.com/cran/rrMixture
+	shallow = true
+	registered = true
